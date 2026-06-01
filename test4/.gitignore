@@ -1,0 +1,18 @@
+# 环境变量和密钥
+.env
+*.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+.env/
+.venv/
+
+# VSCode 配置
+.vscode/
+
+# 日志文件
+*.log
